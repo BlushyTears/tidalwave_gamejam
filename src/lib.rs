@@ -10,6 +10,7 @@ use bevy::{
     prelude::*,
 };
 
+
 pub struct AppPlugin;
 
 impl Plugin for AppPlugin {
